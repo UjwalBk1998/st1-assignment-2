@@ -40,3 +40,4 @@ print("Welcome to SmartCare: The Clinical Appointment Booking System!")
 book_appointment('Alice Smith', 'Dr. John Doe', '2024-07-20 10:00 AM')
 book_appointment('Bob Johnson', 'Dr. Jane Roe', '2024-07-20 11:30 AM')
 display_appointments()
+git
